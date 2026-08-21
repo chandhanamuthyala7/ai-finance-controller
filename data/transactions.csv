@@ -1,0 +1,21 @@
+date,description,category,type,amount
+2026-08-01,Client Payment,Sales,Income,50000
+2026-08-02,Office Rent,Operations,Expense,12000
+2026-08-03,Google Ads,Marketing,Expense,8000
+2026-08-04,Software Subscription,Technology,Expense,5000
+2026-08-05,Client Payment,Sales,Income,40000
+2026-08-06,Employee Salary,Payroll,Expense,25000
+2026-08-07,Office Supplies,Operations,Expense,3000
+2026-08-08,Travel Expense,Travel,Expense,4500
+2026-08-09,Client Payment,Sales,Income,35000
+2026-08-10,Social Media Ads,Marketing,Expense,7000
+2026-08-11,Internet Bill,Technology,Expense,2500
+2026-08-12,Employee Salary,Payroll,Expense,25000
+2026-08-13,Office Lunch,Operations,Expense,2500
+2026-08-14,Client Payment,Sales,Income,30000
+2026-08-15,Premium Marketing Campaign,Marketing,Expense,22000
+2026-08-16,Software Subscription,Technology,Expense,5000
+2026-08-17,Travel Expense,Travel,Expense,3500
+2026-08-18,Client Payment,Sales,Income,45000
+2026-08-19,Office Rent,Operations,Expense,12000
+2026-08-20,Unexpected Equipment Purchase,Equipment,Expense,28000
